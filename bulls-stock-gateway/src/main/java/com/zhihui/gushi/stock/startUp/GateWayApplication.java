@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * @author @ZhuWeidong
- * @className gateWayApplication
+ * @className GateWayApplication
  * @description TODO
  * @date 2023/11/22$ 23:41$
  */
